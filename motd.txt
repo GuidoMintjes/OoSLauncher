@@ -4,3 +4,7 @@ This first message is a test for the message system!!
 
 05-03-2022
 Just released update including some value changes --> level is now possible again!
+
+
+06-03-2022
+This player sprites should be a bit better than any of the previous ones... :D
