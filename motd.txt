@@ -8,3 +8,4 @@ This player sprites should be a bit better than any of the previous ones... :D
 
 07-03-2022
 Fix for version bug: no more infinite update cycle!
+Fixed some text errors and alert-decision popup boxes!
